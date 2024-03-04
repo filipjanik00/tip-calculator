@@ -21,8 +21,8 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/tip-calculator-using-tailwindcss-VmOBaFctmI)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/tip-calculator/)
 
 ## My process
 
